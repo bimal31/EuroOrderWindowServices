@@ -1,0 +1,34 @@
+﻿Installing assembly 'D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe
+   logfile = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.InstallLog
+Installing service EuroOrderServices...
+Service EuroOrderServices has been successfully installed.
+Creating EventLog source EuroOrderServices in log Application...
+Committing assembly 'D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe
+   logfile = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.InstallLog
+Uninstalling assembly 'D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe
+   logfile = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.InstallLog
+Removing EventLog source EuroOrderServices.
+Service EuroOrderServices is being removed from the system...
+Service EuroOrderServices was successfully removed from the system.
+Installing assembly 'D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe
+   logfile = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.InstallLog
+Installing service EuroOrderServices...
+Service EuroOrderServices has been successfully installed.
+Creating EventLog source EuroOrderServices in log Application...
+Committing assembly 'D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.exe
+   logfile = D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-1\EuroOrderServices\bin\Debug\EuroOrderServices.InstallLog

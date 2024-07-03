@@ -1,0 +1,206 @@
+7/9/2022 12:54:20 PM: OnElapsedTime 7/9/2022 12:54:20 PM
+7/9/2022 12:54:22 PM: Error Import Data: Data not insert in tally/nLedger 'A1 HARDWARE' does not exist!System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n1System.Object[]/n0System.Object[]
+7/9/2022 12:54:24 PM: System; The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+7/9/2022 12:54:24 PM: sendmail SendMailAnync exception
+7/9/2022 12:54:24 PM: Error Import Data: Data not insert in tally/nLedger 'A1 HARDWARE' does not exist!System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n1System.Object[]/n0System.Object[]
+7/9/2022 12:54:26 PM: System; The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+7/9/2022 12:54:26 PM: sendmail SendMailAnync exception
+7/9/2022 12:54:26 PM: Error Import Data: Data not insert in tally/nLedger 'A1 HARDWARE' does not exist!System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n1System.Object[]/n0System.Object[]
+7/9/2022 12:54:28 PM: System; The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+7/9/2022 12:54:28 PM: sendmail SendMailAnync exception
+7/9/2022 12:58:55 PM: Service is stopped at 7/9/2022 12:58:55 PM
+09-07-2022 14:25:52: OnElapsedTime 09-07-2022 14:25:50
+09-07-2022 14:44:12: OnElapsedTime 09-07-2022 14:44:05
+09-07-2022 15:03:25: Error Import Data: Data not insert in tally/nSystem.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n0System.Object[]/n1System.Object[]/n0System.Object[]
+09-07-2022 15:03:29: System; The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+09-07-2022 15:03:29: sendmail SendMailAnync exception
+07/20/2022 13:03:32: OnElapsedTime 07/20/2022 13:03:32
+07/20/2022 13:08:32: OnElapsedTime 07/20/2022 13:08:32
+07/20/2022 13:53:20: OnElapsedTime 07/20/2022 13:53:20
+07/20/2022 14:35:19: OnElapsedTime 07/20/2022 14:35:19
+07/20/2022 14:37:55: OnElapsedTime 07/20/2022 14:37:55
+13-08-2022 13:12:45: OnElapsedTime 13-08-2022 13:12:45
+13-08-2022 13:14:30: OnElapsedTime 13-08-2022 13:14:30
+24-09-2022 12:36:08: OnElapsedTime 24-09-2022 12:36:08
+24-09-2022 12:47:31: System; The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+24-09-2022 12:47:31: sendmail SendMailAnync exception
+15-10-2022 12:06:15: OnElapsedTime 15-10-2022 12:06:15
+15-10-2022 12:07:58: OnElapsedTime 15-10-2022 12:07:58
+15-10-2022 12:11:23: OnElapsedTime 15-10-2022 12:11:23
+10-11-2022 08:26:50: OnElapsedTime 10-11-2022 08:26:50
+10-11-2022 21:29:00: OnElapsedTime 10-11-2022 21:29:00
+12-11-2022 14:10:19: OnElapsedTime 12-11-2022 14:10:19
+12-11-2022 14:10:28: Service is OrderID 288508
+12-11-2022 14:18:47: OnElapsedTime 12-11-2022 14:18:47
+12-11-2022 14:18:50: Service is OrderID 288508
+12-11-2022 14:24:14: OnElapsedTime 12-11-2022 14:24:14
+12-11-2022 14:24:15: Service is OrderID 288508
+12-11-2022 14:25:25: OnElapsedTime 12-11-2022 14:25:25
+12-11-2022 14:25:26: Service is OrderID 288508
+12-11-2022 14:25:37: OnElapsedTime 12-11-2022 14:25:37
+12-11-2022 14:25:38: Service is OrderID 288508
+12-11-2022 14:38:08: OnElapsedTime 12-11-2022 14:38:08
+12-11-2022 14:38:10: Service is OrderID 288508
+12-11-2022 14:38:17: OnElapsedTime 12-11-2022 14:38:17
+12-11-2022 14:38:19: Service is OrderID 288508
+12-11-2022 14:42:35: OnElapsedTime 12-11-2022 14:42:35
+12-11-2022 14:42:36: Service is OrderID 288508
+12-11-2022 14:45:15: OnElapsedTime 12-11-2022 14:45:15
+12-11-2022 14:45:16: Service is OrderID 288508
+12-11-2022 14:49:18: OnElapsedTime 12-11-2022 14:49:18
+12-11-2022 14:49:18: Service is OrderID 288508
+12-11-2022 14:49:20: xmldataread Error == System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at EuroOrderServices.EuroOrderServices.xmldataread(DataSet ds, Int64 OrderID) in D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-2\EuroOrderServices\Service1.cs:line 455
+12-11-2022 14:49:39: xmldataread Error == System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at EuroOrderServices.EuroOrderServices.xmldataread(DataSet ds, Int64 OrderID) in D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-2\EuroOrderServices\Service1.cs:line 455
+12-11-2022 14:49:50: xmldataread Error == System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at EuroOrderServices.EuroOrderServices.xmldataread(DataSet ds, Int64 OrderID) in D:\Application\Euro\Euroorder\Services\EuroOrderServices-V-2\EuroOrderServices\Service1.cs:line 455
+12-11-2022 14:51:06: OnElapsedTime 12-11-2022 14:51:06
+12-11-2022 14:51:29: Service is OrderID 288508
+12-11-2022 14:53:32: OnElapsedTime 12-11-2022 14:53:32
+12-11-2022 14:53:33: Service is OrderID 288508
+12-11-2022 15:01:59: OnElapsedTime 12-11-2022 15:01:59
+12-11-2022 15:02:01: Service is OrderID 288508
+12-11-2022 15:03:33: OnElapsedTime 12-11-2022 15:03:33
+12-11-2022 15:03:35: Service is OrderID 288508
+12-11-2022 15:18:59: OnElapsedTime 12-11-2022 15:18:59
+12-11-2022 15:19:04: Service is OrderID 288508
+12-11-2022 15:24:06: OnElapsedTime 12-11-2022 15:24:06
+12-11-2022 15:24:07: Service is OrderID 288508
+13-11-2022 19:06:37: OnElapsedTime 13-11-2022 19:06:36
+13-11-2022 19:06:47: Service is OrderID 288508
+13-11-2022 19:12:12: OnElapsedTime 13-11-2022 19:12:12
+13-11-2022 19:12:23: Service is OrderID 288508
+13-11-2022 19:22:34: OnElapsedTime 13-11-2022 19:22:34
+13-11-2022 19:22:44: Service is OrderID 288508
+13-11-2022 19:23:35: OnElapsedTime 13-11-2022 19:23:35
+13-11-2022 19:23:35: Service is OrderID 288508
+13-11-2022 19:24:59: OnElapsedTime 13-11-2022 19:24:59
+13-11-2022 19:24:59: Service is OrderID 288508
+14-11-2022 21:13:29: OnElapsedTime 14-11-2022 21:13:29
+14-11-2022 21:13:36: Service is OrderID 288508
+14-11-2022 21:16:02: OnElapsedTime 14-11-2022 21:16:02
+14-11-2022 21:16:02: Service is OrderID 288508
+14-11-2022 21:35:36: OnElapsedTime 14-11-2022 21:35:36
+14-11-2022 21:35:37: Service is OrderID 288508
+14-11-2022 21:36:47: OnElapsedTime 14-11-2022 21:36:47
+14-11-2022 21:36:48: Service is OrderID 288508
+14-11-2022 21:38:33: OnElapsedTime 14-11-2022 21:38:33
+14-11-2022 21:38:34: Service is OrderID 288508
+14-11-2022 23:17:02: OnElapsedTime 14-11-2022 23:17:02
+14-11-2022 23:17:04: Service is OrderID 288508
+14-11-2022 23:23:13: OnElapsedTime 14-11-2022 23:23:13
+14-11-2022 23:23:13: Service is OrderID 288508
+14-11-2022 23:42:03: OnElapsedTime 14-11-2022 23:42:03
+14-11-2022 23:42:03: Service is OrderID 288508
+14-11-2022 23:45:05: OnElapsedTime 14-11-2022 23:45:05
+14-11-2022 23:45:05: Service is OrderID 288508
+14-11-2022 23:52:57: OnElapsedTime 14-11-2022 23:52:57
+14-11-2022 23:52:58: Service is OrderID 288508
+14-11-2022 23:58:05: OnElapsedTime 14-11-2022 23:58:05
+14-11-2022 23:58:10: Service is OrderID 288508
+14-11-2022 23:58:56: OnElapsedTime 14-11-2022 23:58:56
+14-11-2022 23:58:57: Service is OrderID 288508
+15-11-2022 00:00:42: OnElapsedTime 15-11-2022 00:00:42
+15-11-2022 00:00:42: Service is OrderID 288508
+15-11-2022 00:03:02: OnElapsedTime 15-11-2022 00:03:02
+15-11-2022 00:03:03: Service is OrderID 288508
+15-11-2022 00:07:29: OnElapsedTime 15-11-2022 00:07:29
+15-11-2022 00:07:30: Service is OrderID 288508
+15-11-2022 12:03:29: OnElapsedTime 15-11-2022 12:03:29
+15-11-2022 12:04:03: Service is OrderID 288508
+15-11-2022 12:08:01: OnElapsedTime 15-11-2022 12:08:01
+15-11-2022 12:08:02: Service is OrderID 288508
+15-11-2022 12:08:11: Service SendTallyRequest
+15-11-2022 12:11:03: OnElapsedTime 15-11-2022 12:11:03
+15-11-2022 12:11:04: Service is OrderID 288508
+15-11-2022 12:11:27: Service SendTallyRequest
+15-11-2022 12:12:09: Service is OrderID 288509
+15-11-2022 12:12:18: Service SendTallyRequest
+15-11-2022 12:12:18: Service is OrderID 288510
+15-11-2022 12:12:20: Service SendTallyRequest
+15-11-2022 12:12:21: Service is OrderID 288512
+15-11-2022 12:12:30: Service SendTallyRequest
+15-11-2022 12:12:31: Service is OrderID 288511
+15-11-2022 12:12:35: Service SendTallyRequest
+15-11-2022 13:54:12: GetPendingdata  System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at EuroOrderServices.EuroOrderServices.GetPendingdata()
+15-11-2022 14:21:13: GetPendingdata error = System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'GetOrderPostTally' expects parameter '@OrderId', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at EuroOrderServices.EuroOrderServices.GetPendingdata()
+ClientConnectionId:ddb1e247-ef63-45ac-a704-4db640e11934
+Error Number:201,State:4,Class:16
+15-11-2022 21:42:27: GetPendingdata  System.Data.SqlClient.SqlException (0x80131904): XML parsing: line 1, character 113, illegal qualified name character
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at EuroOrderServices.EuroOrderServices.getdataodbc()
+ClientConnectionId:20be686a-2523-44e5-8bb2-55715e6cec09
+Error Number:9455,State:1,Class:16
+15-11-2022 21:50:13: GetPendingdata  System.Data.SqlClient.SqlException (0x80131904): The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at EuroOrderServices.EuroOrderServices.getdataodbc()
+ClientConnectionId:20be686a-2523-44e5-8bb2-55715e6cec09
+Error Number:242,State:3,Class:16
+15-11-2022 21:50:45: GetPendingdata  System.Data.SqlClient.SqlException (0x80131904): The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at EuroOrderServices.EuroOrderServices.getdataodbc()
+ClientConnectionId:20be686a-2523-44e5-8bb2-55715e6cec09
+Error Number:242,State:3,Class:16
